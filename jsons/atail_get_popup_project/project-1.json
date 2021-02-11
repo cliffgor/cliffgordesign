@@ -4,15 +4,15 @@
 	"link": "http://template.atail.itembridge.com/projects/Chinese-girl-posing.html",
 	"content": "This is a Book app where you can subscribe for an E-book of your choice and read it. This is an illustration of the app from login to getting a book.",
 	"date": "<span class=\"atail-project-date\"><span class=\"atail-proj-date-text\">Finished </span><span class=\"atail-proj-date-value\">- 22 Jun 2016</span></span>",
-	"thumbnail": "<img width=\"1200\" height=\"911\" src=\"img/Chinese-girl-posing.jpeg\" alt=\"pexels-photo-69494\" />",
-	"thumbnail_url": "img/Chinese-girl-posing.jpeg",
+	"thumbnail": "<img width=\"1200\" height=\"911\" src=\"img/Mobile-Mockup.png\" alt=\"pexels-photo-69494\" />",
+	"thumbnail_url": "img/Mobile-Mockup.png",
 	"positions": null,
 	"token": "865fc8f5ec",
 	"participants": "<span class=\"post-content-footer-title\">Participants</span>",
 	"slides": [
 		{
 			"src": {
-				"img": "img/project-preview/Bard-bags-collection.jpeg",
+				"img": "img/project-preview/Mobile-Mockup.png",
 				"title": "",
 				"text": "",
 				"fit": "cover"
